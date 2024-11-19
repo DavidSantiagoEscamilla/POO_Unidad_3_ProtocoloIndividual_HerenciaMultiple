@@ -1,4 +1,4 @@
-package ejemploSeis.parteUno;
+package ejercicioUno;
 
 public interface Volador {
     void volar();
