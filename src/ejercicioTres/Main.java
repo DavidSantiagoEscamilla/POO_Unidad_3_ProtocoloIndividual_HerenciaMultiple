@@ -1,4 +1,4 @@
-package herenciaMultiple.ejercicioTres;
+package ejercicioTres;
 
 public class Main {
     public static void main(String[] args) {

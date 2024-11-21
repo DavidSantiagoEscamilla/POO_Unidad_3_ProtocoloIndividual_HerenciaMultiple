@@ -1,4 +1,4 @@
-package herenciaMultiple.ejercicioTres;
+package ejercicioTres;
 
 public interface ActualizarUsuario {
     void actualizarFoto();

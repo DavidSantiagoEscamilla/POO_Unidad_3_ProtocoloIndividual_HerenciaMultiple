@@ -1,6 +1,5 @@
-package herenciaMultiple.ejercicioDos;
+package ejercicioDos;
 
-public interface Nadador 
-{
+public interface Nadador {
     void nadar();
 }

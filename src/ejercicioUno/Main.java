@@ -1,10 +1,12 @@
-package herenciaMultiple.ejercicioUno;
+package ejercicioUno;
 
 public class Main {
     public static void main(String[] args) {
-        Ave ave = new Ave();
+        
+        Persona persona = new Persona("David");
 
-        ave.cantar();
-        ave.volar();
+        
+        persona.hablar();
+        persona.trabajar();
     }
 }
