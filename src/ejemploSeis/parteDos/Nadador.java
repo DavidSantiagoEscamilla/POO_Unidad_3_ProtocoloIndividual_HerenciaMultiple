@@ -1,7 +1,7 @@
-package herenciaMultiple.ejemploSeis.parteDos;
+package ejemploSeis.parteDos;
 
 public interface Nadador {
     default void despegar() {
-        System.out.println("Nadador despega.");
+    System.out.println("Nadador despega.");
     }
 }
